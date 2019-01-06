@@ -42,6 +42,8 @@ INSTALLED_APPS = [
     'core',
     'user',
     'botbegone',
+    # 'django_social',
+    'django-rest-framework-social-oauth2',
 ]
 
 MIDDLEWARE = [
