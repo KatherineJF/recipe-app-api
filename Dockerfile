@@ -1,4 +1,4 @@
-FROM python:3.7-alpine
+FROM python:3.13.0a3-alpine
 MAINTAINER Katherine Fitzpatrick
 ENV PYTHONUNBUFFERED 1
 
